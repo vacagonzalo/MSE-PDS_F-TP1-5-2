@@ -3,8 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 if __name__ == "__main__":
     SIZE = 1000
     index = 0
